@@ -1,3 +1,3 @@
 # Android
 
-I´m studing Android, so i will give you some examples
+I´m studing Android, so i would like show you some examples
